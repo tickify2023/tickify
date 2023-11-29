@@ -14,7 +14,7 @@ export default async function EventoShow({ params }: Props) {
   return (
     <>
       <Banner
-        banner_url="https://i.imgur.com/EtHHwrX.jpg"
+        banner_url="https://i.imgur.com/uuTQw6t.png"
         text=""
         position="center"
       ></Banner>
